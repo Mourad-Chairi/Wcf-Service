@@ -1,0 +1,7 @@
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\bin\Debug\Tp_Wcf_Service.dll.config
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\bin\Debug\Tp_Wcf_Service.dll
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\bin\Debug\Tp_Wcf_Service.pdb
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\obj\Debug\Tp_Wcf_Service.csprojAssemblyReference.cache
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\obj\Debug\Tp_Wcf_Service.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\obj\Debug\Tp_Wcf_Service.dll
+C:\Users\Mourad\source\repos\Tp_Wcf_Service\Tp_Wcf_Service\obj\Debug\Tp_Wcf_Service.pdb

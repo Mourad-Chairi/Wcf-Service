@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8080/">
+    <file relUrl="bin/Tp_Wcf_Service.pdb" publishTime="01/05/2021 00:20:46" />
+    <file relUrl="bin/Tp_Wcf_Service.dll" publishTime="01/05/2021 00:20:46" />
+    <file relUrl="bin/Tp_Wcf_Service.dll.config" publishTime="01/04/2021 23:24:43" />
+    <file relUrl="Web.config" publishTime="01/04/2021 23:24:43" />
+    <file relUrl="Tp_Wcf_Service.Service1.svc" publishTime="01/05/2021 00:20:47" />
+  </publishTarget>
+</publishData>
